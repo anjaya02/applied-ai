@@ -582,4 +582,4 @@ Since the blank starts in the centre, it can move in **four directions**.
 
 **Lecture's final summary also names “reflex with state” as an agent architecture.** Unlike the simple reflex agent, a reflex agent with state maintains an internal representation of information from the past. The lecture does not provide a separate detailed slide explaining this design.
 
-**End of Lecture 2.**
+**End of Lecture 4.**
